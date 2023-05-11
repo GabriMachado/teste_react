@@ -1,0 +1,12 @@
+.titulo{
+    text-align: center;
+    color:black;
+    font-family: "lato", Roboto;
+}
+.foto{
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 5;
+    align-items: center ;
+}
